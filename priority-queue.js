@@ -1,5 +1,5 @@
 class PriorityQueue {
-    constructor(root, comparator) {
+    constructor(comparator, root) {
         this.queue = [root];
         this.isHigherPriority = comparator;
     }
