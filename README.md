@@ -1,7 +1,7 @@
 # interview-modules
 📦 A collection of useful javascript data structures and classes I wrote that are not inlcuded in the standard library.
 
-# Heap
+# Priority Queue
 - Takes an optional custom comparator (like sort())
     - Min-heap: (a, b) => b-a
    -  Max-heap: (a, b) => a-b
